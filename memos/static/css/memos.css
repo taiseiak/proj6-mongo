@@ -4,6 +4,9 @@
  */
 
 /* Nothing yet */
+body {
+    font-family: 'Courier New', monospace;
+}
 
 .lyrics {
     margin-left: 3em;
@@ -12,4 +15,18 @@
 
 .attribution  {
     font-size: smaller;
+}
+
+memo {
+    position: sticky;
+}
+
+h1 {
+    font-family: Futura;
+    font-style: oblique;
+    font-weight: bold;
+}
+
+.container-fluid {
+    height: 100%;
 }

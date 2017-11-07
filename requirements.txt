@@ -2,4 +2,3 @@ Flask
 arrow
 gunicorn
 pymongo
-bson
